@@ -1,0 +1,15 @@
+.DS_Store
+/.DS_Store
+.idea/
+.vscode/
+.vsconfig
+*.csproj
+Library/
+Logs/
+Packages/
+ProjectSettings/
+*.sln
+Temp/
+UserSettings/
+obj/
+*.meta
